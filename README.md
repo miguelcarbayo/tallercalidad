@@ -1,6 +1,12 @@
+
+
 ### Requisitos de asistencia
 
-Para asistir a este taller no será necesario la descarga de la herramienta, ya que el proceso de obtención de ésta es engorroso. Se recomienda, sin embargo, tener a mano el documento del ejemplo guiado del taller, que podrá ser de ayuda durante el mismo. El ejemplo a seguir en el taller viene distribuido con la herramienta, y una versión del ejemplo completada se encuentra disponible en el github de este taller.
+#### Aviso previo al taller
+
+El tiempo necesario para la obtención de la licencia varía según el tiempo de respuesta del personal de Xanitizer. En nuestro caso, nos ha llevado un mínimo de varias horas para completar el proceso de activación. Además, el personal de Xanitizer llega incluso a pedir información sobre el uso que se va a dar al programa así como otros datos sobre el usuario que lo pide. Es posible que puedas solo mandar los datos necesarios para la activación de la licencia sin tener que responder a sus preguntas sobre tu uso, pero no hemos corroborado que eso sea posible.
+
+Por lo tanto, para asistir a este taller **NO RECOMENDAMOS** obtener la licencia (de 14 días) y descargar Xanitizer si su uso va a ser exclusivo para este taller. Se recomienda, sin embargo, tener a mano el documento del ejemplo guiado del taller, que podrá ser de ayuda durante el mismo. El ejemplo a seguir en el taller viene distribuido con la herramienta, y una versión del ejemplo completada se encuentra disponible en el repositorio de este taller.
 
 Si aún así deseas obtener y probar la herramienta, en la siguiente sección se detallan los pasos.
 
